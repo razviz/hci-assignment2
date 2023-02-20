@@ -34,7 +34,9 @@ Message Chat screen: This shows the messages in the chat you selected (user/grou
 
 
 The links for my figma design and the video of my app demonstration are down below:
+
 URL of prototype: https://www.figma.com/proto/WWHSeQheMqm3gNlb6Qnhw4/Assignment-2?scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2&node-id=1%3A2
+
 YouTube link of demonstration: https://youtu.be/DKl9AOgHGyI
 
 
